@@ -167,8 +167,6 @@ button:hover {
               0 0 60px rgba(246, 241, 241, 0.573); 
 }
 
-
-
 @keyframes glow {
   0% {
       box-shadow: 0 0 10px rgba(246, 241, 241, 0.573);
